@@ -1,4 +1,4 @@
-import HomeButton from "../compoents/Homebutton"
+import HomeButton from "../../compoents/Homebutton"
 
 type Props = {
     params: {
